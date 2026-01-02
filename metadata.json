@@ -1,0 +1,7 @@
+{
+  "name": "Weekend Escape Generator",
+  "description": "A low-friction, aesthetic weekend trip discovery app for Gen-Z and young millennials in India. Get curated, realistic escape options based on your city, budget, and mood.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
